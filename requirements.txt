@@ -1,0 +1,5 @@
+robotframework
+robotframework-requests
+pandas
+numpy
+faker
